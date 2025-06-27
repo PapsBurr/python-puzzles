@@ -1,7 +1,4 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+import puzzles as p
 
 
 def print_hi(name):
@@ -13,4 +10,19 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    # uncomment puzzles with ctrl+/ to run
+
+    # PUZZLE 1
+    # ----------------------------------------------------------------
+    # print(p.puzzle_1.__doc__)
+    # p1_inp_list1 = [19, 19, 15, 5, 3, 5, 5, 2]
+    # p1_inp_list2 = [19, 15, 15, 5, 3, 3, 5, 2]
+    # p1_inp_list3 = [19, 19, 5, 5, 5, 5, 5]
+    # print(p.puzzle_1(p1_inp_list1))
+    # print(p.puzzle_1(p1_inp_list2))
+    # print(p.puzzle_1(p1_inp_list3))
+
+    # PUZZLE 2
+    # ----------------------------------------------------------------
+
+
