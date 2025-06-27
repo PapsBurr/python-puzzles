@@ -2,16 +2,14 @@ import puzzles as p
 
 
 def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-    # uncomment puzzles with ctrl+/ to run
-    # puzzles from https://www.w3resource.com/python-exercises/puzzles/index.php
+    # Uncomment puzzles with ctrl+/ to run
+    # Puzzles from https://www.w3resource.com/python-exercises/puzzles/index.php
 
     # PUZZLE 1
     # ----------------------------------------------------------------
@@ -34,3 +32,21 @@ if __name__ == '__main__':
     # print(p.puzzle_2(p2_inp_list2))
     # print(p.puzzle_2(p2_inp_list3))
     # print(p.puzzle_2(p2_inp_list4))
+
+    # PUZZLE 4
+    # ----------------------------------------------------------------
+    # print(p.puzzle_4.__doc__)
+    # print(p.puzzle_4(2))
+    # print(p.puzzle_4(3))
+    # print(p.puzzle_4(10))
+    # print(p.puzzle_4(17))
+
+    # PUZZLE
+    # ----------------------------------------------------------------
+
+
+
+
+
+
+
